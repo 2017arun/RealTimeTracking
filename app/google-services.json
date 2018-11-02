@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "694920629254",
+    "firebase_url": "https://realtimetracking-fcf5f.firebaseio.com",
+    "project_id": "realtimetracking-fcf5f",
+    "storage_bucket": "realtimetracking-fcf5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694920629254:android:73facc0bb2ca132f",
+        "android_client_info": {
+          "package_name": "avss.com.realtimetracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694920629254-g7gmehual2f5n7pvjn6fevk30phslpus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "avss.com.realtimetracking",
+            "certificate_hash": "dde4817a63fdfd22ad90888bd87f5feac5148fdf"
+          }
+        },
+        {
+          "client_id": "694920629254-pl6tbf6c5itub2ha4h54ga3d948ho34u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFFFl7Nv3fLUz2GaAovupu7lr37a-s3Ts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694920629254-pl6tbf6c5itub2ha4h54ga3d948ho34u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
